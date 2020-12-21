@@ -1,0 +1,166 @@
+Gergely Utri13:26
+ 1. kISBETUVEL kEZDODIK mINDEN!!! 
+  2. Este 10-kor - közérdekbol - hagyd abba a kódolást!
+  3. Mindent zárj le elobb, aztán írd meg a közepét!
+Mark Pekanovics13:26
+Occam's razor
+google is your friend (don't reinvent the wheel)
+pay attention to the details
+Anna Szépvölgyi13:26
+//1. Változók létrehozása meg legyen hívva és betöltodjön
+//2. Ne írjak el semmit, pontosság
+//3. függvényeket, mindent jól használjak
+Monika Dekany13:26
+1. Az interneten rákeresek a problémára!
+2. Betartom a "clean-coding" szabályait (külalak, vesszok, elnevezések stb.)
+3. A feladatot lépésekre bontva. kitartóan oldom!
+Dani Pugner13:26
+//A linket, script-et a headben tároljuk. 
+//A függvény muködését a console-on ellenorizzük. 
+//SCSS használatakor watching Sass!
+Kiss Àgoston13:26
+/* Lezáró tagek fontossága */
+
+/* Tabolás */
+
+/* Beszédes angol elnevezések */
+Dániel Halusitz13:26
+// ; a sorok végére.
+// === a == helyett az if függvénybe junior szinten.
+// var helyett let-et használni ahol csak lehet.
+Anita Vertetics13:26
+	// 1. átlátható kódot írni
+	
+	// 2. túl hosszú függvényeket kiszervezni
+	
+	// 3. zárójelekre és pontosvesszokre mindig figyelni
+Gábor Nagy13:26
+    // a munka megkezdese elott alaposan atgondolni a lepesek egymasutanjat
+    // mar mukodo kodrol biztonsagi mentes nagyobb atiras elott
+    // a kesz kod optimalizalasa - mukodes-sorrend-nevek
+Fruzsina Pásztor13:26
+// src vs href!
+// inner.html  insertAdjesementHTML
+// fvny meghívások mikor kell a () és mikor nem
+gergo kodrucz13:26
+//1es szabaly: mindig tervezd meg a lepeseket!
+//2es szabaly: figyelj a cleancode szabalyokra (tagolas,kommenteles)!
+//3as szabaly: fontos ne kapkodj - irasjelek, kis es nagybetuk, zarojelek pontos hasznalata!
+Richárd Atom13:26
+// 1. A programozást meg tudom tanulni.
+// 2. A programozást nekem kell elsajátítani.
+// 3. TABOLÁS
+Dorina Pásztor13:26
+//Az elején mindent consol.log-olj ki,hogy lasd,ha elrontottal valamit.
+//Az id erosebb mint a class.
+//Js ben,mindig tervezd meg a lépéseket.
+Martin Mészáros13:26
+1. Clean code, camelCase, értheto változó és függvény nevek!
+ 2. onclick helyett mindíg addEventListener!
+ 3. css kódot css/scss fájlba írjuk!
+gábor dobcsányi13:26
+  // 1. Olyan kódot ne írj be a kódodba, amirol nem tudod, hogy mit csinál!
+  // 2. Próbálj meg tervezni, inkább azzal tölts el több idot, mint a kódolás 
+  //    közben váratlanul felmerült problémák "áthidalásával"!
+  // 3. Ha valamit meg lehet nagyon egyszeruen, akkor azt úgy csináld! 
+Attila Viszlói13:26
+// ma hihetetlen, holnap sikerélmény, jövo hétre rutin
+// Egy hét múlva visszanézed
+// ha nagyon nem megy, valószínu elgépelted 
+Tamás Péter Bodorkós13:26
+//1. JS - querySelectorAll után az adott elemcsoportra nem lehet .style -t hívni, mert az egy tömböt hoz létre,
+//ezért azon a tömbön végig kell menni for ciklussal, és csak utána lehet a tömb indexelemeire használni .style -t
+
+//2. JS - veszettül figyelni kell a definiálások és meghívásk sorrendjére és az elemekre, hogy mi lokális és mi van globális blokkban
+
+//3. For in ciklus és a For of ciklust, nem illik összekeverni 
+Papp Szilberhar Szabina13:26
+// megtanulni, hogyan lehet js-bol manipulálni a DOM-ot
+// megjegyezni a különbözo írásjelek, zárójelek jelentését
+// kirakni, nem elhagyni a megfelelo írásjeleket;
+Ferenc Molnár13:26
+// Tervezés
+// Pontosság, figyelem (;,(),{},[],stb)
+// Search
+Gergo Sarkadi13:26
+//1.)"Experience first understand later!"
+  //2.)Jegyzetet/tervet készíteni, commentelni a kódot!
+  //3.)Figyelni a szintaxisra, tagolásra!
+Ádám Kittlinger13:26
+// 1. 'var' helyett 'let' használata
+
+// 2. '==' helyett mindig '===' használjunk
+
+// 3. ';' ne maradjon le az utasítások végérol 
+Árpád Rákay13:26
+1.   gyakori kommentelés
+2.   átlátható, 'clean' kód
+3.   átgondolás, tervezés
+Gábor Kozma13:26
+projekt tervezés - komment sorok megírásával
+
+beszédes class, változó és függvény nevek
+  
+JS program muködés követés console.log-ok írásával
+András Klima13:26
+/*
+  code comment
+*/
+
+/*
+  egységes (változó, függvény, stb.) névadási konvenció
+*/
+
+/*
+  css középre igazítás
+*/
+Kriszta Józsa13:26
+// put everything inside pageLoad.
+	// write functions by using variables but without values.
+	// clean code: choose function and variable names in a fucntions that anyone can guess what that function will do without knowing JavaScript language.
+You13:26
+1. tabolás,css-html - javascript
+2. zároljelek,
+3. pontos vesszot nem elfelejteni
+
+
+Zsófia Szabó13:26
+/*A feladatokat mindig a leheto legkisebb egységekre bontva, logikailag helytálló formában érdemes leírni, mielott bármit csinálnánk. 
+Egy jól megtervezett, felvázolt és részegységekre bontott terv már fél siker a projekt befejezéséhez.*/
+
+/*Kódokat másolni nem érdemes, ha még erre is kerülni sor, részenként a tulajdonságokat, funkciókat megértve és egyenként értelmezve célszeru alkalmazni.*/
+
+/*A megfelelo írásjeleket, zárójeleket idoben, már a kódok írása során ki kell tenni, nem szabad részle
+Zoltán Mészáros13:26
+// 1. fájlnevek kisbetuvel ékezet nélkül
+// 2. style.css-t, script.js-t belinkelni az index-html-be
+// 3. ha valami nem muködik: a fejlesztoi konzolon megkeresni a hiba okát
+
+=======================================================
+
+Richárd Atom14:47
+http://highlightjs.org
+https://highlightjs.org/download/
+<link rel="stylesheet"
+      href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.4.1/styles/default.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.4.1/highlight.min.js"></script>
+
+
+
+https://highlightjs.org/usage/
+
+Richárd Atom14:48
+document.addEventListener('DOMContentLoaded', (event) => {
+  document.querySelectorAll('pre code').forEach((block) => {
+    hljs.highlightBlock(block);
+  });
+});
+document.addEventListener('DOMContentLoaded', (event) => {
+  document.querySelectorAll('code').forEach((block) => {
+    hljs.highlightBlock(block);
+  });
+});
+
+
+NEM KELL !!!
+hljs.highlightBlock(block);
